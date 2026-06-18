@@ -1,6 +1,18 @@
 # OdinProj-Recipes
-Project from The Odin Project; Recipes. Basic HTML knowledge. 
+Project from The Odin Project; Recipes. 
 
+This project is to show basic understanding of html by making a website that contains: 
+- an index.html
+- links between pages
+- images
+- Lists (both ordered and unordered)
+- basic directory structure
+
+It also was to practice use of Git and GitHub. 
+Including publishing a website on GitHub to Pages. 
 
 Image Lisencing: 
-- Lasagna: “<a href="https://www.flickr.com/photos/62438482@N07/5684794885" title="Lasagna Classico">Lasagna Classico</a>” by <a href="https://www.flickr.com/photos/62438482@N07/">Olive Garden</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en" rel="license noopener noreferrer">CC BY-NC-ND 2.0</a>
+done using attribute. 
+
+Created by Brook Pugmire
+2026
