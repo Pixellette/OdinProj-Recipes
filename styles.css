@@ -1,0 +1,21 @@
+html {
+    margin:0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1, p, .recipe-list {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid chocolate;
+    border-radius: 15px;
+}
+
+ul{
+    padding-left: 25px;
+}
+
